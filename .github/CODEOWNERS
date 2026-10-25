@@ -1,0 +1,5 @@
+# Verification assets and CI are owned by the verification role (pilot: the author's second account or a team).
+/tests/acceptance/   @udawat1975
+/.github/            @udawat1975
+/AGENTS.md           @udawat1975
+/CLAUDE.md           @udawat1975
