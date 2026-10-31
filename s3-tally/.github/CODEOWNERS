@@ -1,5 +1,0 @@
-# Verification assets and CI are owned by the verification role (pilot: the author's second account or a team).
-/tests/acceptance/   @VERIFIER-PLACEHOLDER
-/.github/            @VERIFIER-PLACEHOLDER
-/AGENTS.md           @VERIFIER-PLACEHOLDER
-/CLAUDE.md           @VERIFIER-PLACEHOLDER
