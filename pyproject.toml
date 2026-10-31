@@ -1,6 +1,6 @@
 [project]
 name = "tally"
-version = "0.3.0"
+version = "0.3.1"
 description = "Count words, lines and characters in text files (pilot scenario S3)."
 requires-python = ">=3.10"
 dependencies = []

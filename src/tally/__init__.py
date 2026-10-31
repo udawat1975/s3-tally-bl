@@ -2,4 +2,4 @@
 from .core import Counts, count_text, count_file
 
 __all__ = ["Counts", "count_text", "count_file"]
-__version__ = "0.3.0"
+__version__ = "0.3.1"
